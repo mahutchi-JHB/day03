@@ -5,7 +5,7 @@ void ft_ultimate_ft(int ********nbr8){
 		********nbr8 = 42;
 }
 
-int main(){
+//int main(){
 //	int nbr;
 //	int *nbr1;
 //	int **nbr2;
@@ -25,5 +25,4 @@ int main(){
 //	nbr8 = &nbr7;
 //
 //	ft_ultimate_ft(nbr);
-}
-
+//}
